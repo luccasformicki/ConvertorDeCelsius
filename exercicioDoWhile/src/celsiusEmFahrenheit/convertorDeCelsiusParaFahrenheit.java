@@ -21,6 +21,7 @@ public class convertorDeCelsiusParaFahrenheit {
 		} while (resp != 'n');
 		
 		
+		
 		sc.close();
 	}
 
